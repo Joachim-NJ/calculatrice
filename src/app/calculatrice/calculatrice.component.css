@@ -1,0 +1,29 @@
+.box{
+    margin: auto;
+    align-self: center;
+    width: 10%;
+}
+
+.line {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+input, button {
+    width: 40%;
+    text-align: center;
+}
+
+button{
+    background-color: rgb(237, 174, 14);
+    color: black;
+}
+
+.res{
+    background-color: black;
+    color: gold;
+    margin: auto;
+    text-align: center;
+    border-radius: 5px;
+}
